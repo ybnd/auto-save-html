@@ -3,7 +3,7 @@
   "manifest_version": 2,
   "name": "Auto Save HTML",
   "version": "2.0.3",
-  "homepage_url": "https://github.com/nunoarruda/auto-save-html",
+  "homepage_url": "https://github.com/ybnd/auto-save-html",
 
   "options_ui": {
     "page": "options.html",
@@ -24,7 +24,7 @@
 
   "applications": {
     "gecko": {
-      "id": "nuno@nunoarruda.com",
+      "id": "auto-save-html@ybnd.dev",
       "strict_min_version": "57.0a1"
     }
   }
